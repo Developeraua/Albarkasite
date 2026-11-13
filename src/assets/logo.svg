@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Albarka Properties Consultant Limited logo">
+  <rect width="1000" height="1000" fill="#ffffff"/>
+  <!-- Outer house outline -->
+  <path d="M 225 750 L 225 296 L 500 50 L 775 296 L 775 750" fill="none" stroke="#0C9BDA" stroke-width="60" stroke-linejoin="miter" stroke-linecap="butt"/>
+  <!-- 3D bevel facets -->
+  <polygon points="195,750 226,750 195,719" fill="#5FC0EC"/>
+  <polygon points="805,750 774,750 805,719" fill="#5FC0EC"/>
+  <!-- Inner house -->
+  <path d="M 282 750 L 282 320 L 500 125 L 718 320 L 718 750 Z" fill="#232050"/>
+  <!-- Window -->
+  <path d="M 375 422 L 375 305 L 500 270 L 625 305 L 625 422 Z" fill="#ffffff"/>
+  <!-- Door -->
+  <rect x="438" y="625" width="124" height="125" fill="#ffffff"/>
+  <!-- Wordmark -->
+  <text x="500" y="830" text-anchor="middle" font-family="'Arial Black','Archivo Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="84" fill="#232050" textLength="880" lengthAdjust="spacingAndGlyphs">Albarka Properties</text>
+  <text x="500" y="918" text-anchor="middle" font-family="'Arial Black','Archivo Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="76" fill="#0C9BDA" textLength="850" lengthAdjust="spacingAndGlyphs">Consultant Limited</text>
+  <text x="500" y="985" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="60" fill="#ED1C24" textLength="380" lengthAdjust="spacingAndGlyphs">RC: 7062863</text>
+</svg>
