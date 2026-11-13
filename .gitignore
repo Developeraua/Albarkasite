@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+dist-server/
+*.log
+.DS_Store
+.vite/
+coverage/
