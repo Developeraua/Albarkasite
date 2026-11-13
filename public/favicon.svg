@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="175 0 650 770" role="img" aria-label="Albarka Properties Consultant Limited">
+  <rect x="175" y="0" width="650" height="770" fill="#ffffff"/>
+  <path d="M 225 750 L 225 296 L 500 50 L 775 296 L 775 750" fill="none" stroke="#0C9BDA" stroke-width="60" stroke-linejoin="miter" stroke-linecap="butt"/>
+  <polygon points="195,750 226,750 195,719" fill="#5FC0EC"/>
+  <polygon points="805,750 774,750 805,719" fill="#5FC0EC"/>
+  <path d="M 282 750 L 282 320 L 500 125 L 718 320 L 718 750 Z" fill="#232050"/>
+  <path d="M 375 422 L 375 305 L 500 270 L 625 305 L 625 422 Z" fill="#ffffff"/>
+  <rect x="438" y="625" width="124" height="125" fill="#ffffff"/>
+</svg>
